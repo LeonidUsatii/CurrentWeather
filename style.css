@@ -1,0 +1,52 @@
+body {
+  background-color: rgb(238, 240, 210);
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  color: #1d92e5;
+  text-align: center;
+}
+
+h2 {
+  margin: 5px 0;
+  color: #404125;
+}
+.container {
+  margin: 0 auto;
+  width: 600px;
+  margin-top: 30px;
+}
+
+.content {
+  margin-left: 50px;
+}
+
+.cont-p {
+  width: 400px;
+  margin: 0 auto;
+}
+
+.cont-w {
+  width: 400px;
+  margin: 0 auto;
+}
+
+.text {
+  font-size: 18px;
+  margin: 5px 0;
+  color: #484747;
+}
+
+.text-sp {
+  margin-left: 30px;
+}
+
+.coordinates {
+  margin: 0;
+}
+
+.coordinates-sp {
+  font-weight: 600;
+}
